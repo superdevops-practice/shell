@@ -1,1 +1,2 @@
-This is a test file created while practicing GIT Concepts
+Doing an update on this file
+This is a test file created practicing GIT Concepts
